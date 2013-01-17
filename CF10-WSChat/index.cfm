@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <title>CFWebChat - CFSockets</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Unity - 3.3.1 :: WS">
+    <meta name="description" content="CFWebChat - CFSockets">
     <meta name="author" content="James Harvey">
 
     <!-- The styles -->
