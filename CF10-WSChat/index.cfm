@@ -104,7 +104,7 @@
           
           <div class="nav-collapse collapse">
               <ul class="nav">
-              <li class="active"><a href="#">&copy; 2012 - 2013 Children of America - All Rights Reserved</a></li>
+              <li class="active"><a href="#">&copy; 2013 WebDevSourcerer.com</a></li>
               </ul>
           </div><!--/.nav-collapse -->
         </div>
