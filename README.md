@@ -12,3 +12,5 @@ CF10-FileName = Needs to Run on ColdFusion 10
 
 CF09-Filename = Needs to Run on ColdFusion 9
 
+CF-Filename = *Should be* ColdFusion Independant
+
