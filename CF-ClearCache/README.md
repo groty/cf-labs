@@ -6,13 +6,11 @@ having to directly access your CFAdministrator.
 
 It works best within a function like the Following:
 
-<code>
-<cfif isdefined('url.ClearCache') and url.ClearCache is "true">
+cfif isdefined('url.ClearCache') and url.ClearCache is "true"
 
 ...The CODE Here...
 
-</cfif>
-</code>
+/cfif
 
 Enjoy.
 - James
